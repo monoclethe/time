@@ -1,0 +1,23 @@
+* {
+    font-family: sans-serif;
+}
+.progressContainer {
+    width: 90vw;
+    height: 10vh;
+    background-color: gray;
+    margin: auto;
+    border: 5px solid black;
+}
+.progressFill {
+    width: 50%;
+    height: 10vh;
+    background-color: lightgreen;
+    margin: 0;
+    text-align: center;
+    line-height: 10vh;
+}
+#period {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
